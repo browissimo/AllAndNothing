@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\AllAndNothing\AllAndNothing\bin\Debug\net5.0\AllAndNothing.exe
+C:\Users\User\source\repos\AllAndNothing\AllAndNothing\bin\Debug\net5.0\AllAndNothing.deps.json
+C:\Users\User\source\repos\AllAndNothing\AllAndNothing\bin\Debug\net5.0\AllAndNothing.runtimeconfig.json
+C:\Users\User\source\repos\AllAndNothing\AllAndNothing\bin\Debug\net5.0\AllAndNothing.runtimeconfig.dev.json
+C:\Users\User\source\repos\AllAndNothing\AllAndNothing\bin\Debug\net5.0\AllAndNothing.dll
+C:\Users\User\source\repos\AllAndNothing\AllAndNothing\bin\Debug\net5.0\ref\AllAndNothing.dll
+C:\Users\User\source\repos\AllAndNothing\AllAndNothing\bin\Debug\net5.0\AllAndNothing.pdb
+C:\Users\User\source\repos\AllAndNothing\AllAndNothing\obj\Debug\net5.0\AllAndNothing.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\AllAndNothing\AllAndNothing\obj\Debug\net5.0\AllAndNothing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\AllAndNothing\AllAndNothing\obj\Debug\net5.0\AllAndNothing.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\AllAndNothing\AllAndNothing\obj\Debug\net5.0\AllAndNothing.AssemblyInfo.cs
+C:\Users\User\source\repos\AllAndNothing\AllAndNothing\obj\Debug\net5.0\AllAndNothing.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\AllAndNothing\AllAndNothing\obj\Debug\net5.0\AllAndNothing.dll
+C:\Users\User\source\repos\AllAndNothing\AllAndNothing\obj\Debug\net5.0\ref\AllAndNothing.dll
+C:\Users\User\source\repos\AllAndNothing\AllAndNothing\obj\Debug\net5.0\AllAndNothing.pdb
+C:\Users\User\source\repos\AllAndNothing\AllAndNothing\obj\Debug\net5.0\AllAndNothing.genruntimeconfig.cache
