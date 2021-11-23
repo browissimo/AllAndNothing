@@ -7,7 +7,12 @@ namespace AllAndNothing
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Приветсвую, Друг, чем займемся на этот раз?\n");
+            ProgramStart();
+        }
+
+        static internal void ProgramStart()
+        {
+            Console.WriteLine("\tПриветсвую, Друг, чем займемся на этот раз?\n\tДля перизапуска программы, в любой момент, введите 0\n");
 
             ProgramList programList = new ProgramList();
 
@@ -18,23 +23,16 @@ namespace AllAndNothing
 
             Console.WriteLine("\nВведити цифру соответсвующую соответствующую требуемому функционалу");
 
-            bool rez = int.TryParse(Console.ReadLine(), out int num);
-            if (rez)
+            string rez = InputParce.InParce(Console.ReadLine());
+
+            switch (rez)
             {
-                switch (num)
-                {
-                    case 1 :  
-                        PiLenthToN.InN();
-                        break;
-
-                    default:
-                        Console.ForegroundColor = ConsoleColor.Red;
-                        Console.WriteLine("Введите корректное значение");
-                        Console.ResetColor();
-                        break;
-                }
+                case "1" : 
+                    PiLenthToN.InN();
+                    break;
+                default:
+                    break;
             }
-
         }
     }
 }
