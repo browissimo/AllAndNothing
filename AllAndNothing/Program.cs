@@ -30,6 +30,9 @@ namespace AllAndNothing
                 case "1" : 
                     PiLenthToN.InN();
                     break;
+                case "2" :
+                    FactorialNumber.FacNum();
+                    break;
                 default:
                     break;
             }

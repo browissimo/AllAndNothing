@@ -10,7 +10,8 @@ namespace AllAndNothing
     {
         public Dictionary<int, string> programDict = new Dictionary<int, string>
         {
-            {1, "Найти число pi до n-й цифры после запятой" }
+            {1, "Найти число pi до n-й цифры после запятой" },
+            {2, "Вычисление факториала числа" }
         };
     }
 }

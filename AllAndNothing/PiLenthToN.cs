@@ -44,6 +44,8 @@ namespace AllAndNothing
                 Console.ForegroundColor = ConsoleColor.Red;
                 Console.WriteLine("\nВведите целое число \n");
                 Console.ResetColor();
+                Console.WriteLine("Нажмите Enter для продолжения");
+                Console.ReadLine();
                 InN();
             }
         }
