@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\User\\.nuget\\packages\\": {}
+    "C:\\Users\\Admin\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\AllAndNothing\\AllAndNothing\\AllAndNothing.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\AllAndNothing\\AllAndNothing\\AllAndNothing\\AllAndNothing.csproj",
       "projectName": "AllAndNothing",
-      "projectPath": "C:\\Users\\User\\source\\repos\\AllAndNothing\\AllAndNothing\\AllAndNothing.csproj",
-      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\AllAndNothing\\AllAndNothing\\obj\\",
+      "projectPath": "C:\\Users\\Admin\\source\\repos\\AllAndNothing\\AllAndNothing\\AllAndNothing\\AllAndNothing.csproj",
+      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Admin\\source\\repos\\AllAndNothing\\AllAndNothing\\AllAndNothing\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

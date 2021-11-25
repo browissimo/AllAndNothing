@@ -33,6 +33,9 @@ namespace AllAndNothing
                 case "2" :
                     FactorialNumber.FacNum();
                     break;
+                case "3" :
+                    NameGenerator.NG();
+                    break;
                 default:
                     break;
             }
