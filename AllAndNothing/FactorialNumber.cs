@@ -18,7 +18,7 @@ namespace AllAndNothing
             bool rez = int.TryParse(Console.ReadLine(), out int n);
             if (rez)
             {
-                int fac = 1;
+                double fac = 1;
                 for (int i = 1; i <= n ; i++)
                 {
                     fac *= i;
@@ -26,7 +26,8 @@ namespace AllAndNothing
                 Console.WriteLine($"Факториал для числа {n} равен {fac}");
 
                 Console.ForegroundColor = ConsoleColor.DarkGray;
-                Console.WriteLine("\n\nВведите S для возвращение в окно списка программ\nВведите R для повторного выполнения текущей программы");
+                Console.WriteLine("\n\nВведите S для возвращение в окно списка программ\nВведите R для повторного выполнения текущей программы\n" +
+                    "Нажмите иную клавишу для звершения работы");
                 Console.ResetColor();
 
                 string restartOrExit = Console.ReadLine().ToUpper();

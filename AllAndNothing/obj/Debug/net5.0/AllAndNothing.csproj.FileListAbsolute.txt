@@ -31,3 +31,4 @@ C:\Users\Admin\source\repos\AllAndNothing\AllAndNothing\AllAndNothing\obj\Debug\
 C:\Users\Admin\source\repos\AllAndNothing\AllAndNothing\AllAndNothing\obj\Debug\net5.0\AllAndNothing.genruntimeconfig.cache
 C:\Users\Admin\source\repos\AllAndNothing\AllAndNothing\AllAndNothing\obj\Debug\net5.0\AllAndNothing.Properties.Resources.resources
 C:\Users\Admin\source\repos\AllAndNothing\AllAndNothing\AllAndNothing\obj\Debug\net5.0\AllAndNothing.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\AllAndNothing\AllAndNothing\AllAndNothing\obj\Debug\net5.0\AllAndNothing.csproj.AssemblyReference.cache

@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "7ZkeJm2Glqre/R3VXgFPRmpeSyUeDopn4ut4auyrZxOsbpyMHKLT17uS9yctucaMPVKhkz3FwZ5uWIckXL+PpA==",
+  "dgSpecHash": "LxpMz/XKYeUfRdC9cipaqnRMzAB5i/j3hlJ+yIbSNQD2LQAuzSSFj283pY89xh8+TDacCL8y2kDevCBlXgsDNQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Admin\\source\\repos\\AllAndNothing\\AllAndNothing\\AllAndNothing\\AllAndNothing.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

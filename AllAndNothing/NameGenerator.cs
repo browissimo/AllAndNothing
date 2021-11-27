@@ -41,7 +41,8 @@ namespace AllAndNothing
                 Console.WriteLine(phList[randNum]);
 
                 Console.ForegroundColor = ConsoleColor.DarkGray;
-                Console.WriteLine("\n\nВведите S для возвращение в окно списка программ\nВведите R для повторного выполнения текущей программы");
+                Console.WriteLine("\n\nВведите S для возвращение в окно списка программ\nВведите R для повторного выполнения текущей программы\n" +
+                    "Нажмите иную клавишу для звершения работы");
                 Console.ResetColor();
 
                 string restartOrExit = Console.ReadLine().ToUpper();

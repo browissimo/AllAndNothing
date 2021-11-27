@@ -12,7 +12,7 @@ namespace AllAndNothing
 
         static internal void ProgramStart()
         {
-            Console.WriteLine("\tПриветсвую, Друг, чем займемся на этот раз?\n\tДля перизапуска программы, в любой момент, введите 0\n");
+            Console.WriteLine("\n\tПриветсвую, Друг, чем займемся на этот раз?\n");
 
             ProgramList programList = new ProgramList();
 
