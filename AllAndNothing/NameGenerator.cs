@@ -1,11 +1,5 @@
 ﻿using System;
-using System.IO;
-using System.Reflection;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text.RegularExpressions;
-using System.Text;
-using System.Threading.Tasks;
 using AllAndNothing.Properties;
 
 namespace AllAndNothing
@@ -36,8 +30,9 @@ namespace AllAndNothing
                 phList.Sort();
 
                 Random rand = new Random();
-                int randNum = rand.Next(1, n);
+                int randNum = rand.Next(1, phList.Count);
 
+                Console.WriteLine();
                 Console.WriteLine(phList[randNum]);
 
                 Console.ForegroundColor = ConsoleColor.DarkGray;
